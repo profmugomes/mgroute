@@ -1,3 +1,3 @@
-module github.com/promugomes/mgroute/v2
+module github.com/promugomes/mgroute/v3
 
-go 1.26.5
+go 1.27.2
